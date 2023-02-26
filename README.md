@@ -1,4 +1,4 @@
-# Projeto realizado peço Programa Transforme-se | Serasa Experian e Wise Hands!
+# Projeto realizado pelo Programa Transforme-se | Serasa Experian e Wise Hands!
 
 ## Com a orientação da Prof.(a) Jessica Venancio
 
